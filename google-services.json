@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "571164698818",
+    "project_id": "sos-project-8c4e1",
+    "storage_bucket": "sos-project-8c4e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571164698818:android:2ad30d88f7fa345e4eb35b",
+        "android_client_info": {
+          "package_name": "com.raghav.sos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571164698818-5j8r8jdvl37uqpqbtodo0n00mf6glo8r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.raghav.sos",
+            "certificate_hash": "31f5a6f69a6b0d5d9690697318dd474c27255db1"
+          }
+        },
+        {
+          "client_id": "571164698818-e25q5ritfb6esjr9mgsrer9cetla399j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYMerfBSd7p3qkJU6gcLlgD8nSqIMzPiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571164698818-e25q5ritfb6esjr9mgsrer9cetla399j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
